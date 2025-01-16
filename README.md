@@ -20,6 +20,7 @@ Aplikacja powstała w celu przetrenowania **Class-Based Views (CBV) w Django**.
 
 1. Sklonuj repozytorium:
 ```
+git clone --branch deploy https://github.com/dmurawski/djangoCBV.git
 ```
 2. Stwórz i aktywuj wirtualne środowisko:
 ```
